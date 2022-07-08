@@ -1,0 +1,14 @@
+\\edu.local\public\studenthomes\20300215\Desktop\Prilojenie\Prilojenie\Prilojenie\bin\Debug\Prilojenie.exe.config
+\\edu.local\public\studenthomes\20300215\Desktop\Prilojenie\Prilojenie\Prilojenie\bin\Debug\Prilojenie.exe
+\\edu.local\public\studenthomes\20300215\Desktop\Prilojenie\Prilojenie\Prilojenie\bin\Debug\Prilojenie.pdb
+\\edu.local\public\studenthomes\20300215\Desktop\Prilojenie\Prilojenie\Prilojenie\obj\Debug\Prilojenie.csprojAssemblyReference.cache
+\\edu.local\public\studenthomes\20300215\Desktop\Prilojenie\Prilojenie\Prilojenie\obj\Debug\MainWindow.g.cs
+\\edu.local\public\studenthomes\20300215\Desktop\Prilojenie\Prilojenie\Prilojenie\obj\Debug\App.g.cs
+\\edu.local\public\studenthomes\20300215\Desktop\Prilojenie\Prilojenie\Prilojenie\obj\Debug\Prilojenie_MarkupCompile.cache
+\\edu.local\public\studenthomes\20300215\Desktop\Prilojenie\Prilojenie\Prilojenie\obj\Debug\Prilojenie_MarkupCompile.lref
+\\edu.local\public\studenthomes\20300215\Desktop\Prilojenie\Prilojenie\Prilojenie\obj\Debug\MainWindow.baml
+\\edu.local\public\studenthomes\20300215\Desktop\Prilojenie\Prilojenie\Prilojenie\obj\Debug\Prilojenie.g.resources
+\\edu.local\public\studenthomes\20300215\Desktop\Prilojenie\Prilojenie\Prilojenie\obj\Debug\Prilojenie.Properties.Resources.resources
+\\edu.local\public\studenthomes\20300215\Desktop\Prilojenie\Prilojenie\Prilojenie\obj\Debug\Prilojenie.csproj.GenerateResource.cache
+\\edu.local\public\studenthomes\20300215\Desktop\Prilojenie\Prilojenie\Prilojenie\obj\Debug\Prilojenie.exe
+\\edu.local\public\studenthomes\20300215\Desktop\Prilojenie\Prilojenie\Prilojenie\obj\Debug\Prilojenie.pdb
